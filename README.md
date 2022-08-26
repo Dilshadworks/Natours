@@ -1,6 +1,6 @@
 ### Natours
 
-### This is a landing Page built in Sass and BEM technique. Requirment was to built this landing page in 7 - 1 layer SASS Architechture. 
+#### This is a landing Page built in Sass and BEM technique. Requirment was to built this landing page in 7 - 1 layer SASS Architechture. 
 
 #### Steps to develop Web Page:
   @Open Terminal 
