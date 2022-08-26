@@ -12,8 +12,6 @@
     4. ### chnage "scripts" in PACKAGE.JSON File.
 
 #### Finally PACKAGE.JSON looks like this:
-
-#### package.json look like this
 {
     "name": "booking-app",
     "version": "1.0.0",
