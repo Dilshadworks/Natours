@@ -1,8 +1,8 @@
 ### Natours
 
-# This is a landing Page built in Sass and BEM technique. Requirment was to built this landing page in 7 - 1 layer SASS Architechture. 
+### This is a landing Page built in Sass and BEM technique. Requirment was to built this landing page in 7 - 1 layer SASS Architechture. 
 
-# Steps to develop Web Page:
+#### Steps to develop Web Page:
   @Open Terminal 
     1. # install node and npm
         ## npm -v
@@ -11,9 +11,9 @@
     3. # npm i node-sass
     4. ### chnage "scripts" in PACKAGE.JSON File.
 
-# Finally PACKAGE.JSON looks like this:
+#### Finally PACKAGE.JSON looks like this:
 
-# package.json look like this
+#### package.json look like this
 {
     "name": "booking-app",
     "version": "1.0.0",
